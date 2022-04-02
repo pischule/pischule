@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pischule" alt="pischule" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **javascript, react**
+
+- 💬 Ask me about **spring boot and postgresql**
+
+- 📫 How to reach me **pischule@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
