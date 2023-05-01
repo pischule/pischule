@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
-<h3 align="center">A passionate backend developer from Belarus</h3>
+<h3 align="center">A passionate web developer from Belarus</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pischule" alt="pischule" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, react**
+- 🌱 I’m currently learning **TypeScript, React and SvelteKit**
 
-- 💬 Ask me about **spring boot and postgresql**
+- 💬 Ask me about **Quarkus, Spring Boot and PostgreSQL**
 
 - 📫 How to reach me **pischule+gh@outlook.com**
 
